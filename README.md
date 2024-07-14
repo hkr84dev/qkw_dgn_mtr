@@ -9,7 +9,7 @@
 
 資本金：100,000円
 
-問い合わせ先：DMで（現在は未解放）
+問い合わせ先：X(Twitter)のDMで（現在は未解放）
 https://x.com/messages/compose?recipient_id=
 
 本社所在地：石川県金沢市堀川新町（予定）
