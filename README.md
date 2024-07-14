@@ -3,7 +3,7 @@
 
 会社名：（未定）
   
-代表者名：橋本 光（HASHIMTOO Hikaru）
+代表者名：橋本 光（HASHIMOTO Hikaru）
 
 設立年月日：2024/10/1（予定）
 
