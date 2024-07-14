@@ -1,6 +1,6 @@
 # 仮設ホームページ
 
-##リンク集
+## リンク集
 
 note
 https://note.com/qkw_dgn_mtr
