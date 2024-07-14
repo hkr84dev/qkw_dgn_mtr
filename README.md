@@ -1,4 +1,10 @@
 # 仮設ホームページ
+## 企業概要
+
+## 事業内容
+
+
+
 
 ## リンク集
 公式HP（wix）：
@@ -9,6 +15,10 @@ https://note.com/qkw_dgn_mtr
 
 X(twitter)：
 https://x.com/qkw_dgn_mtr
+
+
+500px：
+
 
 
 
