@@ -15,7 +15,7 @@ https://x.com/qkw_dgn_mtr
 ## 活動実績
 
  ### 論文
-　DSMを用いたCCPM計画手法の提案：
+DSMを用いたCCPM計画手法の提案：
 https://cir.nii.ac.jp/crid/1390282680617477504
  
 ### 特許
