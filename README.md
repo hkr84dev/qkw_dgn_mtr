@@ -2,8 +2,8 @@
 
 ## リンク集
 
-note
+note：
 https://note.com/qkw_dgn_mtr
 
-X(twitter)
+X(twitter)：
 https://x.com/qkw_dgn_mtr
