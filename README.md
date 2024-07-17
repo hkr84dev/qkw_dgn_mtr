@@ -78,6 +78,19 @@ https://www.jma.go.jp/bosai/nowc/#lat:34.034453/lon:135.000000/zoom:5/colordepth
 強震モニタ：
 http://www.kmoni.bosai.go.jp/
 
+クラウド会計freee：
+https://www.freee.co.jp/
+
+050通話アプリ LaLa Call：
+https://lalacall.jp/
+
+OpenAI Chat GPT：
+https://openai.com/chatgpt/
+
+ココナラ：
+https://coconala.com/
+
+
 ### 所属団体
 プロジェクトマネジメント学会：
 https://spm.or.jp/
