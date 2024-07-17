@@ -53,7 +53,7 @@ https://x.com/qkw_dgn_mtr
 
 
 
-## 活動実績
+## 活動実績（個人）
 
  ### 論文
 DSMを用いたCCPM計画手法の提案：
@@ -93,7 +93,7 @@ https://openai.com/chatgpt/
 https://coconala.com/
 
 
-### 所属団体
+### 所属団体（個人）
 プロジェクトマネジメント学会：
 https://spm.or.jp/
 
