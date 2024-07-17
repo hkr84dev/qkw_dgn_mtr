@@ -14,6 +14,11 @@ https://x.com/messages/compose?recipient_id=
 
 本社所在地：石川県金沢市堀川新町（予定）
 
+電話番号：
+
+メールアドレス：
+
+
 
 ## 事業内容
 (1)ナレッジマネジメント、イノベーションマネジメント、タレントマネジメント等の企画、立案、実施、運営並びにそれらに関するコンサルティング業務
@@ -33,7 +38,7 @@ https://x.com/messages/compose?recipient_id=
 
 
 
-## リンク集
+## 関連サイト
 公式HP：（開発中）
 
 
@@ -42,9 +47,6 @@ https://note.com/qkw_dgn_mtr
 
 X(twitter)：
 https://x.com/qkw_dgn_mtr
-
-
-500px：
 
 
 
@@ -56,3 +58,27 @@ DSMを用いたCCPM計画手法の提案：
 https://cir.nii.ac.jp/crid/1390282680617477504
  
 ### 特許
+
+
+## リンク集
+石川県HP：
+https://www.pref.ishikawa.lg.jp/index2.html
+
+金沢市HP：
+https://www4.city.kanazawa.lg.jp/index.html
+
+北陸地方の2週間天気：
+https://tenki.jp/week/4/
+
+気象庁 レーダーナウキャスト：
+https://www.jma.go.jp/bosai/nowc/#lat:34.034453/lon:135.000000/zoom:5/colordepth:normal/elements:hrpns&slmcs&slmcs_fcst
+
+強震モニタ：
+http://www.kmoni.bosai.go.jp/
+
+### 所属団体
+プロジェクトマネジメント学会：
+https://spm.or.jp/
+
+日本単独野営協会：
+https://tandokuyaei.com/
