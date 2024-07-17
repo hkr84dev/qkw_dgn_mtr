@@ -12,7 +12,7 @@
 本社所在地：石川県金沢市堀川新町（予定）
 
 ### 問い合わせ先：
-X(Twitter) ダイレクトメール（現在は未解放）
+X(Twitter) ダイレクトメール（現在は未解放）：
 https://x.com/messages/compose?recipient_id=
 
 電話番号：
@@ -63,6 +63,7 @@ https://cir.nii.ac.jp/crid/1390282680617477504
 
 
 ## リンク集
+### 地域情報
 石川県HP：
 https://www.pref.ishikawa.lg.jp/index2.html
 
@@ -78,6 +79,7 @@ https://www.jma.go.jp/bosai/nowc/#lat:34.034453/lon:135.000000/zoom:5/colordepth
 強震モニタ：
 http://www.kmoni.bosai.go.jp/
 
+### 創業関連
 クラウド会計freee：
 https://www.freee.co.jp/
 
