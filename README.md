@@ -81,15 +81,19 @@ https://openai.com/chatgpt/
 ココナラ：
 https://coconala.com/
 
+### 事業関連
 
-### 所属団体（個人）
+
+## 代表プロフィール
+
+### 所属団体
 プロジェクトマネジメント学会：
 https://spm.or.jp/
 
 日本単独野営協会：
 https://tandokuyaei.com/
 
-### 活動実績（個人）
+### 活動実績
 
 #### 論文
 DSMを用いたCCPM計画手法の提案：
