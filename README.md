@@ -16,7 +16,7 @@ X(Twitter) ダイレクトメール（現在は未解放）：
 https://x.com/messages/compose?recipient_id=
 
 電話番号：
-050-xxxx-xxxx
+050-xxxx-xxxx（土・日の12:00～15:00のみ受付）
 
 メールアドレス：
 
