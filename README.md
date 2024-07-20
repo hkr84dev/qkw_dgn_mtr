@@ -82,7 +82,14 @@ https://openai.com/chatgpt/
 https://coconala.com/
 
 ### 事業関連
+ISO/DIS 56000 Innovation management：
+https://www.iso.org/standard/84436.html
 
+ISO/AWI 30401 Knowledge management systems：
+https://www.iso.org/standard/89436.html
+
+ISO/DIS 30414 Human resource management：
+https://www.iso.org/standard/69338.html
 
 ## 代表プロフィール
 1987年6月22日生
