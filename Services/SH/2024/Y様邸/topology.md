@@ -22,7 +22,7 @@ graph TB
  subgraph WAN
   direction TB
   Internet([Internet\nフレッツ 1Gbps])
-  Internet --- 211_2F_BBR{{ブロードバンドルータ\n192.168.1.1}}
+  Internet --- 211_2F_BBR{{ブロードバンドルータ\n192.168.1.1/24}}
   class 211_2F_BBR NW
 
   subgraph Home[Y様邸]
