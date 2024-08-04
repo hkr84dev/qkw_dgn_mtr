@@ -70,7 +70,7 @@ graph TB
     subgraph PCコーナー
      direction TB
      111_1F_HUB --- 121_1F_PoEHUB{{PoE HUB}}
-     121_1F_PoEHUB --PoE--- 122_1F_AP01{{AP01\nWiFi6}}
+     121_1F_PoEHUB --PoE--- 122_1F_AP01{{AP01\nWiFi5}}
      121_1F_PoEHUB --- 123_1F_PC02[Surface Go]
      class 121_1F_PoEHUB NW
      class 122_1F_AP01 NW
@@ -130,7 +130,7 @@ end
     * TVボード内のAPはHUBとして再利用
 1. ファイルサーバへのアクセスが遅い
     * mGig対応のNASとHUBを導入し、Cat6A配線でパフォーマンスを最大化
-    * Wi-Fi6対応APにより高速アクセス
+    * Wi-Fi5対応APにより高速アクセス
 1. ファイルサーバの故障によりデータが損失する
     * NASをRAID1構成とすることで耐障害性を向上
 
