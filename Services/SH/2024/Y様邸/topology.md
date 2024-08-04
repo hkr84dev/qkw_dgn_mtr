@@ -135,7 +135,7 @@ end
     * NASをRAID1構成とすることで耐障害性を向上
 
 ### 部材（税抜定価）
-* Wi-Fi6 AP
+* Wi-Fi5 AP
 * PoE HUB
 * 2.5Gbps対応NAS
 * 2.5Gbps対応HUB
