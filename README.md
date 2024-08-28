@@ -8,7 +8,7 @@
 
 ### 問い合わせ先
 X(Twitter) ダイレクトメール：  
-　https://x.com/messages/compose?recipient_id=@qkw_dgn_mtr  
+　https://x.com/messages/compose?recipient_id=@hkr84dev  
 電話番号：050-xxxx-xxxx（土・日の12:00～15:00のみ受付）  
 メールアドレス：（ドメイン取得を検討中）  
 
