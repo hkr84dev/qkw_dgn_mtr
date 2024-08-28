@@ -7,8 +7,8 @@
 本社所在地：石川県金沢市堀川新町  
 
 ### 問い合わせ先
-X(Twitter) ダイレクトメール（現在は未解放）：  
-　https://x.com/messages/compose?recipient_id=  
+X(Twitter) ダイレクトメール：  
+　https://x.com/messages/compose?recipient_id=@qkw_dgn_mtr  
 電話番号：050-xxxx-xxxx（土・日の12:00～15:00のみ受付）  
 メールアドレス：（ドメイン取得を検討中）  
 
