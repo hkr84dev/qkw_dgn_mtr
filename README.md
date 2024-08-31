@@ -31,62 +31,6 @@ X(twitter)：
 　https://x.com/qkw_dgn_mtr
 
 
-## リンク集
-### 地域情報
-#### 自治体
-石川県HP：  
-　https://www.pref.ishikawa.lg.jp/index2.html
-
-金沢市HP：  
-　https://www4.city.kanazawa.lg.jp/index.html
-
-#### 業界団体等
-一般社団法人石川県情報システム工業会：  
-　https://isa.or.jp/
-
-NPO法人石川県情報化支援協会：  
-　https://www.iisa.or.jp/
-
-ICT研究開発機能連携推進会議：  
-　https://hirp.jp/
-
-#### 天気・防災
-北陸地方の2週間天気：  
-　https://tenki.jp/week/4/
-
-気象庁 レーダーナウキャスト：  
-　https://www.jma.go.jp/bosai/nowc/#lat:34.034453/lon:135.000000/zoom:5/colordepth:normal/elements:hrpns&slmcs&slmcs_fcst
-
-強震モニタ：  
-　http://www.kmoni.bosai.go.jp/
-
-### 創業関連
-クラウド会計freee：  
-　https://www.freee.co.jp/
-
-050通話アプリ LaLa Call：  
-　https://lalacall.jp/
-
-OpenAI Chat GPT：  
-　https://openai.com/chatgpt/
-
-ハンコヤドットコム：  
-　https://www.hankoya.com/
-
-ココナラ：  
-　https://coconala.com/
-
-### 事業関連
-ISO/DIS 56000 Innovation management：  
-　https://www.iso.org/standard/84436.html
-
-ISO/AWI 30401 Knowledge management systems：  
-　https://www.iso.org/standard/89436.html
-
-ISO/DIS 30414 Human resource management：  
-　https://www.iso.org/standard/69338.html
-
-
 ## 代表社員プロフィール
 1987年6月22日生。千葉工業大学 プロジェクトマネジメント学科を卒業後、大手人材育成コンサルタントに就職してプログラミング言語講師や会場運営に従事。その後は2度の転職を経てミドルウェアパッケージやクラウドコンピューティング、ネットワークインフラの開発、構築、保守、運用等、ITビジネスに幅広く携わってきたほか、特許出願や業務効率化をはじめとした企業価値向上の活動にも積極的に取り組んでいる。趣味は散歩、ハイキング、ドライブ、サイクリング。
 
